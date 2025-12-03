@@ -1,17 +1,18 @@
-# Hi There!
+# Hi, I'm Doug 👋
 
-## Who am I?
-I'm a full stack developer based in the UK. I work with individual clients and alongside agencies to provide bespoke solutions from wordpress to native app development.
+Full-stack developer based in the UK, building fast, practical solutions for individuals and agencies. I work across web and mobile—from WordPress sites to custom full-stack apps.
 
-## What am I working on?
-Currently I'm developing two services, TinyInvoice and PhramaSea. They are both full stack applications built on unique and lean tech stacks including frameworks like flask and tailwind. 
+### What I Do
+- Design and build end-to-end applications  
+- Craft clean, responsive front-ends  
+- Develop scalable back-end systems  
 
-## What tools do I use?
-I use a range of frameworks and libraries dynamically based on the needs of the project. 
-I use front end frameworks like Tailwind in conjunction with vanilla CSS and javascript to ensure front end presentation iss tight and intuitive. Libraries like GSAP allow me to bring deeply customiseable animations and interractivity to any projects front end. 
+### Current Projects
+**TinyInvoice** and **PharmaSea** — lean, efficient apps built with modern frameworks.
 
-I can build native applications using React/React Native while augmenting them with complex back end systems using frameworrks like node.js or if the application requires it, decentralised options like django or flask
+### Tech I Use
+Tailwind • JavaScript • React / React Native • Flask • Django • Node.js • GSAP • WordPress
 
-## How to contact me?
-
-I can be reached either through my linkedin profile, or email me at info@sitesbydoug.co.uk
+### Contact
+📧 **info@sitesbydoug.co.uk**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/douglas-mottershead-a5721aab/
